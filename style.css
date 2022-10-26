@@ -41,7 +41,7 @@ h1 {
   margin-bottom: 2rem;
 }
 
-h1 .highlight {
+.highlight {
   font-weight: 600;
 }
 
@@ -93,10 +93,10 @@ p {
 /* Contact Section  */
 .contact-image {
   order: 1;
-  max-width: 40%;
+  max-width: 35%;
   animation: pulse ease-in-out 6s infinite;
   animation-delay: 2s;
-  padding-left: 7.5%;
+  padding-left: 10%;
 }
 
 .card {
